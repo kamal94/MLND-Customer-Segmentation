@@ -1,11 +1,9 @@
-# Project 3: Unsupervised Learning
+# Creating Customer Segments
 
-## Disclaimer
-This project is an implementation of a project where most of the code is provided by Udacity for the Machine Learning [Nanodegree program](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009).
+#### Using clustering (unsupervised learning) to analyze customer purchase habbits
 
-In this project, a **Gaussian Mixture Model** is fit with customer data to create customer segments.
+In this project, a **Gaussian Mixture Model** is fit with customer data to create customer segments. Principle Component Analysis (PCA) is used to reduce the dimensionality of the dataset and make meaningful interpretation of product segments.
 
-## Creating Customer Segments
 
 ### Install
 
@@ -18,11 +16,12 @@ This project requires **Python 2.7** and the following Python libraries installe
 
 You will also need to have software installed to run and execute an [iPython Notebook](http://ipython.org/notebook.html)
 
-Udacity recommends our students install [Anaconda](https://www.continuum.io/downloads), a pre-packaged Python distribution that contains all of the necessary libraries and software for this project. 
+[Anaconda](https://www.continuum.io/downloads), a pre-packaged Python distribution that contains all of the necessary libraries and software for this project, is recommended. 
 
 ### Code
 
-Template code is provided in the notebook `customer_segments.ipynb` notebook file. Additional supporting code can be found in `renders.py`. While some code has already been implemented to get you started, you will need to implement additional functionality when requested to successfully complete the project.
+Code is provided in the notebook `customer_segments.ipynb` notebook file. Additional supporting code can be found in `renders.py`. 
+
 
 ### Run
 
